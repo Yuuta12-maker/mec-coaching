@@ -197,7 +197,7 @@
       left: 0;
       width: 100%;
       height: 100%;
-      background-image: url('/api/placeholder/1920/1080');
+      background-image: url('images/hero-bg.jpg');
       background-size: cover;
       background-position: center;
       opacity: 0.5;
@@ -922,7 +922,7 @@
     <div class="container">
       <div class="header-inner">
         <div class="logo">
-          <img src="/api/placeholder/200/80" alt="MEC Logo">
+          <img src="images/mec-logo.png" alt="MEC Logo">
         </div>
         <nav class="nav-links">
           <a href="#about" class="nav-link">特徴</a>
@@ -1016,7 +1016,7 @@
       <h2 class="section-title">マインドエンジニアリング・コーチングとは？</h2>
       <div class="solution-content">
         <div class="solution-image">
-          <img src="/api/placeholder/600/400" alt="マインドエンジニアリングの概念図">
+          <img src="images/concept-diagram.jpg" alt="マインドエンジニアリングの概念図">
         </div>
         <div class="solution-text">
           <p>マインドエンジニアリング・コーチングは、最新の認知科学的知見を基盤とした画期的なアプローチです。</p>
@@ -1254,7 +1254,7 @@
       <h2 class="section-title">コーチプロフィール</h2>
       <div class="coach-profile">
         <div class="coach-image">
-          <img src="/api/placeholder/500/500" alt="コーチの写真">
+          <img src="images/coach-profile.jpg" alt="コーチの写真">
         </div>
         <div class="coach-info">
           <h3 class="coach-name">石田 太郎</h3>
@@ -1374,7 +1374,7 @@
     <div class="container">
       <div class="footer-content">
         <div class="footer-logo">
-          <img src="/api/placeholder/200/80" alt="MEC Logo">
+          <img src="images/mec-logo.png" alt="MEC Logo">
           <p>マインドエンジニアリング・コーチングで、努力感なく理想の自分に。</p>
           <div class="footer-social">
             <a href="#" class="social-icon">
